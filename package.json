@@ -1,0 +1,41 @@
+{
+  "name": "universal-phone-number-generator",
+  "version": "1.0.0",
+  "description": "A lightweight and customizable JavaScript library for generating valid phone numbers globally. This package supports country-specific formats, ensures number validity, and offers flexibility for use in testing, seeding databases, or creating mock data. Simplify phone number generation for your next project with this powerful npm package!",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhamsomwanshi11/universal-random-phone-generator.git"
+  },
+  "keywords": [
+    "global-phone-number-generator",
+    "universal-phone-number-generator",
+    "random phone number generator",
+    "phone number generator",
+    "random phone numbers",
+    "JavaScript phone number library",
+    "mock phone numbers",
+    "phone number generator npm",
+    "test phone numbers",
+    "phone number generator JavaScript",
+    "random international phone numbers",
+    "country-specific phone numbers",
+    "random number generator",
+    "global random phone numbers",
+    "phone number mock data",
+    "fake phone numbers"
+  ],
+  "author": "shubhamsomwanshi11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamsomwanshi11/universal-random-phone-generator/issues"
+  },
+  "homepage": "https://github.com/shubhamsomwanshi11/universal-random-phone-generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

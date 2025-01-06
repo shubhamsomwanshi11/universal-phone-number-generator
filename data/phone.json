@@ -1,0 +1,774 @@
+{
+    "afghanistan": {
+        "countryPrefix": "+93",
+        "format": "XXXX-XXXXXX"
+    },
+    "albania": {
+        "countryPrefix": "+355",
+        "format": "XX XXX XXXX"
+    },
+    "algeria": {
+        "countryPrefix": "+213",
+        "format": "XXX XX XX XX"
+    },
+    "andorra": {
+        "countryPrefix": "+376",
+        "format": "XXX XXX"
+    },
+    "angola": {
+        "countryPrefix": "+244",
+        "format": "XXX XXX XXX"
+    },
+    "antigua-and-barbuda": {
+        "countryPrefix": "+1-268",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "argentina": {
+        "countryPrefix": "+54",
+        "format": "(XX) XXXX-XXXX"
+    },
+    "armenia": {
+        "countryPrefix": "+374",
+        "format": "XX XXX XXX"
+    },
+    "australia": {
+        "countryPrefix": "+61",
+        "format": "X XXXX XXXX"
+    },
+    "austria": {
+        "countryPrefix": "+43",
+        "format": "XX XXXXXXX"
+    },
+    "azerbaijan": {
+        "countryPrefix": "+994",
+        "format": "XX XXX XX XX"
+    },
+    "bahamas": {
+        "countryPrefix": "+1-242",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "bahrain": {
+        "countryPrefix": "+973",
+        "format": "XXXX XXXX"
+    },
+    "bangladesh": {
+        "countryPrefix": "+880",
+        "format": "XXX XXX XXX"
+    },
+    "barbados": {
+        "countryPrefix": "+1-246",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "belarus": {
+        "countryPrefix": "+375",
+        "format": "(XX) XXX-XX-XX"
+    },
+    "belgium": {
+        "countryPrefix": "+32",
+        "format": "XXX XX XX XX"
+    },
+    "belize": {
+        "countryPrefix": "+501",
+        "format": "XXX-XXXX"
+    },
+    "benin": {
+        "countryPrefix": "+229",
+        "format": "XX XX XXXX"
+    },
+    "bhutan": {
+        "countryPrefix": "+975",
+        "format": "XX XX XXXX"
+    },
+    "bolivia": {
+        "countryPrefix": "+591",
+        "format": "XXX-XXXX"
+    },
+    "bosnia-and-herzegovina": {
+        "countryPrefix": "+387",
+        "format": "XX XXX XXX"
+    },
+    "botswana": {
+        "countryPrefix": "+267",
+        "format": "XX XXX XXX"
+    },
+    "brazil": {
+        "countryPrefix": "+55",
+        "format": "(XX) XXXX-XXXX"
+    },
+    "brunei": {
+        "countryPrefix": "+673",
+        "format": "XXX XXXX"
+    },
+    "bulgaria": {
+        "countryPrefix": "+359",
+        "format": "(XXX) XXX XXX"
+    },
+    "burkina-faso": {
+        "countryPrefix": "+226",
+        "format": "XX XX XXXX"
+    },
+    "burundi": {
+        "countryPrefix": "+257",
+        "format": "XX XX XXXX"
+    },
+    "cabo-verde": {
+        "countryPrefix": "+238",
+        "format": "XXX-XXXX"
+    },
+    "cambodia": {
+        "countryPrefix": "+855",
+        "format": "XX XXX XXXX"
+    },
+    "cameroon": {
+        "countryPrefix": "+237",
+        "format": "XX XXX XXXX"
+    },
+    "canada": {
+        "countryPrefix": "+1",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "central-african-republic": {
+        "countryPrefix": "+236",
+        "format": "XX XX XX XX"
+    },
+    "chad": {
+        "countryPrefix": "+235",
+        "format": "XX XX XX XX"
+    },
+    "chile": {
+        "countryPrefix": "+56",
+        "format": "(XX) XXXX-XXXX"
+    },
+    "china": {
+        "countryPrefix": "+86",
+        "format": "XXX-XXXX-XXXX"
+    },
+    "colombia": {
+        "countryPrefix": "+57",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "comoros": {
+        "countryPrefix": "+269",
+        "format": "XX XX XX XX"
+    },
+    "congo": {
+        "countryPrefix": "+242",
+        "format": "XX XXX XXXX"
+    },
+    "congo-democratic-republic": {
+        "countryPrefix": "+243",
+        "format": "XX XXX XXXX"
+    },
+    "costa-rica": {
+        "countryPrefix": "+506",
+        "format": "XXX-XXXX"
+    },
+    "croatia": {
+        "countryPrefix": "+385",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "cuba": {
+        "countryPrefix": "+53",
+        "format": "XXX XXX XXXX"
+    },
+    "cyprus": {
+        "countryPrefix": "+357",
+        "format": "XX XXX XXX"
+    },
+    "czech-republic": {
+        "countryPrefix": "+420",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "denmark": {
+        "countryPrefix": "+45",
+        "format": "XX XX XX XX"
+    },
+    "djibouti": {
+        "countryPrefix": "+253",
+        "format": "XX XX XX XX"
+    },
+    "dominica": {
+        "countryPrefix": "+1-767",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "dominican-republic": {
+        "countryPrefix": "+1-809",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "ecuador": {
+        "countryPrefix": "+593",
+        "format": "(XX) XXXX-XXXX"
+    },
+    "egypt": {
+        "countryPrefix": "+20",
+        "format": "(XX) XXXX-XXXX"
+    },
+    "el-salvador": {
+        "countryPrefix": "+503",
+        "format": "XXXX-XXXX"
+    },
+    "equatorial-guinea": {
+        "countryPrefix": "+240",
+        "format": "XX XXX XXX"
+    },
+    "eritrea": {
+        "countryPrefix": "+291",
+        "format": "XX XXX XXXX"
+    },
+    "estonia": {
+        "countryPrefix": "+372",
+        "format": "XXX-XXXX"
+    },
+    "eswatini": {
+        "countryPrefix": "+268",
+        "format": "XXX XXX XXX"
+    },
+    "ethiopia": {
+        "countryPrefix": "+251",
+        "format": "(XX) XXX-XXXX"
+    },
+    "fiji": {
+        "countryPrefix": "+679",
+        "format": "XXX XXXX"
+    },
+    "finland": {
+        "countryPrefix": "+358",
+        "format": "XXX-XXX XXXX"
+    },
+    "france": {
+        "countryPrefix": "+33",
+        "format": "(XX) XX XX XX XX"
+    },
+    "gabon": {
+        "countryPrefix": "+241",
+        "format": "XX XX XX XX"
+    },
+    "gambia": {
+        "countryPrefix": "+220",
+        "format": "XX XXX XXXX"
+    },
+    "georgia": {
+        "countryPrefix": "+995",
+        "format": "XXX XXX XXXX"
+    },
+    "germany": {
+        "countryPrefix": "+49",
+        "format": "(XXX) XXX XXXX"
+    },
+    "ghana": {
+        "countryPrefix": "+233",
+        "format": "(XX) XXX XXXX"
+    },
+    "greece": {
+        "countryPrefix": "+30",
+        "format": "(XXX) XXX XXXX"
+    },
+    "grenada": {
+        "countryPrefix": "+1-473",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "guatemala": {
+        "countryPrefix": "+502",
+        "format": "XXXX-XXXX"
+    },
+    "guinea": {
+        "countryPrefix": "+224",
+        "format": "XX XX XX XX"
+    },
+    "guinea-bissau": {
+        "countryPrefix": "+245",
+        "format": "XX XX XX XX"
+    },
+    "guyana": {
+        "countryPrefix": "+592",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "haiti": {
+        "countryPrefix": "+509",
+        "format": "XX XX XX XX"
+    },
+    "honduras": {
+        "countryPrefix": "+504",
+        "format": "XXXX-XXXX"
+    },
+    "hungary": {
+        "countryPrefix": "+36",
+        "format": "(XX) XXX-XXXX"
+    },
+    "iceland": {
+        "countryPrefix": "+354",
+        "format": "XXX-XXXX"
+    },
+    "india": {
+        "countryPrefix": "+91",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "indonesia": {
+        "countryPrefix": "+62",
+        "format": "(XXX) XXX XXXX"
+    },
+    "iran": {
+        "countryPrefix": "+98",
+        "format": "(XX) XXX XXXX"
+    },
+    "iraq": {
+        "countryPrefix": "+964",
+        "format": "(XX) XXX XXXX"
+    },
+    "ireland": {
+        "countryPrefix": "+353",
+        "format": "(XXX) XXX XXXX"
+    },
+    "israel": {
+        "countryPrefix": "+972",
+        "format": "(XX) XXX XXXX"
+    },
+    "italy": {
+        "countryPrefix": "+39",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "jamaica": {
+        "countryPrefix": "+1-876",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "japan": {
+        "countryPrefix": "+81",
+        "format": "(XXX) XXX XXXX"
+    },
+    "jordan": {
+        "countryPrefix": "+962",
+        "format": "(XX) XXX XXXX"
+    },
+    "kazakhstan": {
+        "countryPrefix": "+7",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "kenya": {
+        "countryPrefix": "+254",
+        "format": "(XXX) XXX XXXX"
+    },
+    "kiribati": {
+        "countryPrefix": "+686",
+        "format": "XX XXX XX"
+    },
+    "korea-north": {
+        "countryPrefix": "+850",
+        "format": "XXX XXX XXXX"
+    },
+    "korea-south": {
+        "countryPrefix": "+82",
+        "format": "(XX) XXX XXXX"
+    },
+    "kuwait": {
+        "countryPrefix": "+965",
+        "format": "XXXX XXXX"
+    },
+    "kyrgyzstan": {
+        "countryPrefix": "+996",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "laos": {
+        "countryPrefix": "+856",
+        "format": "XX XXX XXXX"
+    },
+    "latvia": {
+        "countryPrefix": "+371",
+        "format": "XXX-XXXX"
+    },
+    "lebanon": {
+        "countryPrefix": "+961",
+        "format": "(XXX) XXX XXXX"
+    },
+    "lesotho": {
+        "countryPrefix": "+266",
+        "format": "XX XXX XXX"
+    },
+    "liberia": {
+        "countryPrefix": "+231",
+        "format": "XX XXX XXXX"
+    },
+    "libya": {
+        "countryPrefix": "+218",
+        "format": "XXX XXX XXXX"
+    },
+    "liechtenstein": {
+        "countryPrefix": "+423",
+        "format": "XXX XXXX"
+    },
+    "lithuania": {
+        "countryPrefix": "+370",
+        "format": "XXX XXXX"
+    },
+    "luxembourg": {
+        "countryPrefix": "+352",
+        "format": "XX XXX XXXX"
+    },
+    "madagascar": {
+        "countryPrefix": "+261",
+        "format": "XX XX XX XX"
+    },
+    "malawi": {
+        "countryPrefix": "+265",
+        "format": "XX XXX XXXX"
+    },
+    "malaysia": {
+        "countryPrefix": "+60",
+        "format": "(XXX) XXX XXXX"
+    },
+    "maldives": {
+        "countryPrefix": "+960",
+        "format": "XX XXX XXXX"
+    },
+    "mali": {
+        "countryPrefix": "+223",
+        "format": "XX XX XX XX"
+    },
+    "malta": {
+        "countryPrefix": "+356",
+        "format": "XX XXX XXX"
+    },
+    "marshall-islands": {
+        "countryPrefix": "+692",
+        "format": "XXX XXXX"
+    },
+    "mauritania": {
+        "countryPrefix": "+222",
+        "format": "XX XXX XXXX"
+    },
+    "mauritius": {
+        "countryPrefix": "+230",
+        "format": "XXXX-XXXX"
+    },
+    "mexico": {
+        "countryPrefix": "+52",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "micronesia": {
+        "countryPrefix": "+691",
+        "format": "XXX XXXX"
+    },
+    "moldova": {
+        "countryPrefix": "+373",
+        "format": "(XXX) XXX XXXX"
+    },
+    "monaco": {
+        "countryPrefix": "+377",
+        "format": "XX XXX XX XX"
+    },
+    "mongolia": {
+        "countryPrefix": "+976",
+        "format": "XXX-XXXX"
+    },
+    "montenegro": {
+        "countryPrefix": "+382",
+        "format": "XX XXX XXX"
+    },
+    "morocco": {
+        "countryPrefix": "+212",
+        "format": "(XXX) XXX XXXX"
+    },
+    "mozambique": {
+        "countryPrefix": "+258",
+        "format": "XX XXX XXXX"
+    },
+    "myanmar": {
+        "countryPrefix": "+95",
+        "format": "(XX) XXX XXXX"
+    },
+    "namibia": {
+        "countryPrefix": "+264",
+        "format": "(XX) XXX XXXX"
+    },
+    "nauru": {
+        "countryPrefix": "+674",
+        "format": "XX XXX XXX"
+    },
+    "nepal": {
+        "countryPrefix": "+977",
+        "format": "(XXX) XXX XXXX"
+    },
+    "netherlands": {
+        "countryPrefix": "+31",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "new-zealand": {
+        "countryPrefix": "+64",
+        "format": "(XXX) XXX XXXX"
+    },
+    "nicaragua": {
+        "countryPrefix": "+505",
+        "format": "XXXX-XXXX"
+    },
+    "niger": {
+        "countryPrefix": "+227",
+        "format": "XX XX XX XX"
+    },
+    "nigeria": {
+        "countryPrefix": "+234",
+        "format": "(XXX) XXX XXXX"
+    },
+    "north-macedonia": {
+        "countryPrefix": "+389",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "norway": {
+        "countryPrefix": "+47",
+        "format": "XXX XX XXX"
+    },
+    "oman": {
+        "countryPrefix": "+968",
+        "format": "XX XXX XXXX"
+    },
+    "pakistan": {
+        "countryPrefix": "+92",
+        "format": "(XXX) XXX XXXX"
+    },
+    "palau": {
+        "countryPrefix": "+680",
+        "format": "XXX XXXX"
+    },
+    "panama": {
+        "countryPrefix": "+507",
+        "format": "XXXX-XXXX"
+    },
+    "papua-new-guinea": {
+        "countryPrefix": "+675",
+        "format": "XXX XXXX"
+    },
+    "paraguay": {
+        "countryPrefix": "+595",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "peru": {
+        "countryPrefix": "+51",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "philippines": {
+        "countryPrefix": "+63",
+        "format": "(XXX) XXX XXXX"
+    },
+    "poland": {
+        "countryPrefix": "+48",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "portugal": {
+        "countryPrefix": "+351",
+        "format": "(XXX) XXX XXXX"
+    },
+    "qatar": {
+        "countryPrefix": "+974",
+        "format": "XXXX XXXX"
+    },
+    "romania": {
+        "countryPrefix": "+40",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "rwanda": {
+        "countryPrefix": "+250",
+        "format": "XX XXX XXXX"
+    },
+    "saint-kitts-and-nevis": {
+        "countryPrefix": "+1-869",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "saint-lucia": {
+        "countryPrefix": "+1-758",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "saint-vincent-and-the-grenadines": {
+        "countryPrefix": "+1-784",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "samoa": {
+        "countryPrefix": "+685",
+        "format": "XXX XXXX"
+    },
+    "san-marino": {
+        "countryPrefix": "+378",
+        "format": "XXX XXXX"
+    },
+    "sao-tome-and-principe": {
+        "countryPrefix": "+239",
+        "format": "XX XX XX XX"
+    },
+    "saudi-arabia": {
+        "countryPrefix": "+966",
+        "format": "(XX) XXX XXXX"
+    },
+    "senegal": {
+        "countryPrefix": "+221",
+        "format": "XX XXX XXXX"
+    },
+    "serbia": {
+        "countryPrefix": "+381",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "seychelles": {
+        "countryPrefix": "+248",
+        "format": "XX XXX XXXX"
+    },
+    "sierra-leone": {
+        "countryPrefix": "+232",
+        "format": "XX XXX XXXX"
+    },
+    "singapore": {
+        "countryPrefix": "+65",
+        "format": "XXXX XXXX"
+    },
+    "slovakia": {
+        "countryPrefix": "+421",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "slovenia": {
+        "countryPrefix": "+386",
+        "format": "XXX-XXXX"
+    },
+    "solomon-islands": {
+        "countryPrefix": "+677",
+        "format": "XX XXX XXX"
+    },
+    "somalia": {
+        "countryPrefix": "+252",
+        "format": "(XX) XXX XXXX"
+    },
+    "south-africa": {
+        "countryPrefix": "+27",
+        "format": "(XXX) XXX XXXX"
+    },
+    "south-sudan": {
+        "countryPrefix": "+211",
+        "format": "XX XXX XXXX"
+    },
+    "spain": {
+        "countryPrefix": "+34",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "sri-lanka": {
+        "countryPrefix": "+94",
+        "format": "(XXX) XXX XXXX"
+    },
+    "sudan": {
+        "countryPrefix": "+249",
+        "format": "(XX) XXX XXXX"
+    },
+    "suriname": {
+        "countryPrefix": "+597",
+        "format": "XXX-XXXX"
+    },
+    "sweden": {
+        "countryPrefix": "+46",
+        "format": "(XXX) XXX XXXX"
+    },
+    "switzerland": {
+        "countryPrefix": "+41",
+        "format": "(XX) XXX XX XX"
+    },
+    "syria": {
+        "countryPrefix": "+963",
+        "format": "(XX) XXX XXXX"
+    },
+    "taiwan": {
+        "countryPrefix": "+886",
+        "format": "(XXX) XXX XXXX"
+    },
+    "tajikistan": {
+        "countryPrefix": "+992",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "tanzania": {
+        "countryPrefix": "+255",
+        "format": "(XXX) XXX XXXX"
+    },
+    "thailand": {
+        "countryPrefix": "+66",
+        "format": "(XXX) XXX XXXX"
+    },
+    "timor-leste": {
+        "countryPrefix": "+670",
+        "format": "XXX XXX"
+    },
+    "togo": {
+        "countryPrefix": "+228",
+        "format": "XX XX XX XX"
+    },
+    "tokelau": {
+        "countryPrefix": "+690",
+        "format": "XXX XXXX"
+    },
+    "tonga": {
+        "countryPrefix": "+676",
+        "format": "XX XXX XXX"
+    },
+    "trinidad-and-tobago": {
+        "countryPrefix": "+1-868",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "tunisia": {
+        "countryPrefix": "+216",
+        "format": "(XX) XXX XXXX"
+    },
+    "turkey": {
+        "countryPrefix": "+90",
+        "format": "(XXX) XXX XXXX"
+    },
+    "turkmenistan": {
+        "countryPrefix": "+993",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "tuvalu": {
+        "countryPrefix": "+688",
+        "format": "XXX XXXX"
+    },
+    "uganda": {
+        "countryPrefix": "+256",
+        "format": "(XXX) XXX XXXX"
+    },
+    "ukraine": {
+        "countryPrefix": "+380",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "united-arab-emirates": {
+        "countryPrefix": "+971",
+        "format": "(XX) XXX XXXX"
+    },
+    "united-kingdom": {
+        "countryPrefix": "+44",
+        "format": "(XXX) XXX XXXX"
+    },
+    "united-states": {
+        "countryPrefix": "+1",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "uruguay": {
+        "countryPrefix": "+598",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "uzbekistan": {
+        "countryPrefix": "+998",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "vanuatu": {
+        "countryPrefix": "+678",
+        "format": "XXX XXXX"
+    },
+    "venezuela": {
+        "countryPrefix": "+58",
+        "format": "(XXX) XXX-XXXX"
+    },
+    "vietnam": {
+        "countryPrefix": "+84",
+        "format": "(XXX) XXX XXXX"
+    },
+    "yemen": {
+        "countryPrefix": "+967",
+        "format": "(XX) XXX XXXX"
+    },
+    "zambia": {
+        "countryPrefix": "+260",
+        "format": "(XXX) XXX XXXX"
+    },
+    "zimbabwe": {
+        "countryPrefix": "+263",
+        "format": "(XXX) XXX XXXX"
+    }
+}
