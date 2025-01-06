@@ -5,7 +5,7 @@ const phoneFormats = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../data
 
 function generatePhoneNumber(countryName) {
     // Load phone formats from JSON file
-    const countryKey = countryName.toLowerCase();
+    const countryKey = countryName.toLowerCase().replaceAll(' ','-');
 
     if (!phoneFormats[countryKey]) {
         throw new Error(`Unsupported country code: ${countryName}`);
@@ -27,9 +27,5 @@ function generatePhoneNumber(countryName) {
 
     return `${countryPrefix} ${phoneNumber}`;
 }
-
-const phoneNumber = generatePhoneNumber('United States');
-console.log(phoneNumber);
-
 
 module.exports = { generatePhoneNumber }
